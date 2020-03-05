@@ -1,6 +1,6 @@
 # Rust Backup Generator
 *This project was made as an introduction into rust electricity*
-_It is not meant to be a final form or best setup_
+_It is not intended as a best setup_
 
 ## Items Used
 * Electrical branch
