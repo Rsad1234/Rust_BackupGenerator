@@ -1,8 +1,8 @@
-#Rust Backup Generator
+# Rust Backup Generator
 *This project was made as an introduction into rust electricity*
 _It is not meant to be a final form or best setup_
 
-##Items Used
+## Items Used
 * Electrical branch
   * x4
 * Root Combiner
