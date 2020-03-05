@@ -12,7 +12,7 @@ _It is not intended as a best setup_
 * Windmill
   * **Used as a main power grid**
 * switch
-  * x2 | *Not entirely needed but good practice*
+  * x2 | *Not entirely needed but good practise*
 * AND switch
   * x1
 * XOR switch
