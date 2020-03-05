@@ -4,9 +4,9 @@ _It is not meant to be a final form or best setup_
 
 ##Items Used
 * Electrical branch
-  *x4
+  * x4
 * Root Combiner
-  *x2
+  * x2
 * Generator
   * Any amount > 1 | Aslong as they are combined in some format
 * Windmill
