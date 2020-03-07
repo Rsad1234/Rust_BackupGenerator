@@ -1,25 +1,27 @@
 # Rust Backup Generator
 *This project was made as an introduction into rust electricity*
+
 _It is not intended as a best setup_
 
+*Model taken from youtuber: FullSizedGaming ; https://www.youtube.com/channel/UCYcO5vHcuMhOztTFRjPiDwQ*
+
 ## Items Used
-* Electrical branch
+* Small Generator
+  * x1
+* Main Powerline
+  * x1
+* Large Battery
+  * x1
+* Electrical Branch
   * x4
-* Root Combiner
-  * x2
-* Generator
-  * Any amount > 1 | Aslong as they are combined in some format
-* Windmill
-  * **Used as a main power grid**
-* switch
-  * x2 | *Not entirely needed but good practise*
-* AND switch
+* Blocker
   * x1
-* XOR switch
-  * x1
-* Splitter
+* OR Switch
   * x2
-* Small Battery
-  * x2
-* Medium Battery
-  * x2
+
+## Crafting Cost
+* High Quality Metal
+  * x92
+* Gears
+  * x3
+
